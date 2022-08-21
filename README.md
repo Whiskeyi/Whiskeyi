@@ -7,4 +7,4 @@
 - 📫 You can contact me at [zhuchjie@gmail.com](mailto:zhuchjie@gmail.com)
 - BLOG: [ZHUCHJ](https://zhuchj.com/) (Still building...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whiskeyi&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whiskeyi&hide=prs,issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
