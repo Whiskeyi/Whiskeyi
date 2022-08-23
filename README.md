@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Welcome+to+Whiskeyi's+GitHub" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=150&height=30&lines=%40Whiskeyi)](https://git.io/typing-svg)
 
 2019 级 软件工程专业学生  
 做过一些项目，参加过一些比赛  
