@@ -26,9 +26,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Whiskeyi&hide=prs,issues,contribs&show_icons=true">
 </p>
 
-2019 级 软件工程专业学生 目前实习于：NetEase
-做过一些项目，参加过一些比赛
-前端开发（兼顾一些后端），还在努力  **:)**
+2019 级 软件工程专业学生<br />
+做过一些项目，参加过一些比赛<br />
+实习：NetEase，从事：前端开发<br />
+主要方向：前端开发（学过一些后端），还在努力  **:)**
 
 - 👋 Hi, I’m [@Whiskeyi](https://github.com/Whiskeyi)
 - 👀 I’m interested in web frontend
