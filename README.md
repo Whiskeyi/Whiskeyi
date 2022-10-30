@@ -20,6 +20,11 @@
    <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
    <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
+<p />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Whiskeyi&hide=prs,issues,contribs&show_icons=true">
+</p>
 
 2019 级 软件工程专业学生  
 做过一些项目，参加过一些比赛  
@@ -30,6 +35,4 @@
 - 📫 You can contact me at [zhuchjie@gmail.com](mailto:zhuchjie@gmail.com)
 - BLOG: [ZHUCHJ](https://zhuchj.com/) (Still building...
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Whiskeyi&hide=prs,issues,contribs&show_icons=true">
-</p>
+
