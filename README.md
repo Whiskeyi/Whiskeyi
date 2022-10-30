@@ -28,7 +28,7 @@
 
 2019 级 软件工程专业学生<br />
 做过一些项目，参加过一些比赛<br />
-实习：NetEase，从事：前端开发<br />
+实习：NetEase，从事：前端<br />
 主要方向：前端开发（学过一些后端），还在努力  **:)**
 
 - 👋 Hi, I’m [@Whiskeyi](https://github.com/Whiskeyi)
