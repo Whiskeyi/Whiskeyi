@@ -23,7 +23,7 @@
 <p />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Whiskeyi&hide=prs,issues,contribs&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Whiskeyi&show_icons=true">
 </p>
 
 2019 级 软件工程专业学生<br />
