@@ -28,7 +28,8 @@
 
 2019 级 软件工程专业学生<br />
 做过一些项目，参加过一些比赛<br />
-实习ing<br />
+  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
+大四实习ing<br />
 从事：前端开发（学过一些后端），还在努力  **:)**
 
 - 👋 Hi, I’m [@Whiskeyi](https://github.com/Whiskeyi)
